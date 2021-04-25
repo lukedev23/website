@@ -1,0 +1,32 @@
+body {
+    background-color: #EAF6F6;
+}
+
+hr {
+
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 3%;
+    color: gray;
+
+}
+
+img {
+    height: 150px;
+}
+
+h3 {
+    color: #66BFBF;
+    font-family: sans-serif;
+}
+
+h1 {
+    color:#144747 ;
+    font-family: serif;
+
+}
+h2 {
+    color:#66BFBF ;
+    font-family: sans-serif;
+}

@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-style: italic;
+  margin: 0 auto 0 auto;
+  width: 10%;
+}
+
+.topDiv {
+  background-color: #c0fefc;
+}
+
+.midDiv {
+  background-color: thistle;
+}
+
+.bottomDiv {
+  background-color: tomato;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 350px;
+    top: 70px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: auto;
+}
